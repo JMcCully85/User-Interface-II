@@ -47,7 +47,7 @@ table {
     margin: 0;
     padding: 0;
     max-width: 100%;
-    border: 1px solid white;
+    /* border: 1px solid white; */
 }
 /*General Styles*/
 html {
